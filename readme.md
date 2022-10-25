@@ -6,7 +6,7 @@ This was created after personally experiencing and witnessing a lot of confusion
 ## AirPlay Capability Matrix
 See below for definitions and notes.
 
-◼ = Fully supported  |  ⬕ = Partially/conditionally supported (see notes)  |  ◻ = Not supported
+● = Fully supported  |  ⨀ = Partially/conditionally supported (see notes)  |  ✘ = Not supported
 
 <table>
 <thead>
@@ -40,60 +40,60 @@ See below for definitions and notes.
   </tr>
   <tr>
     <td>iOS (iPhone, iPad)</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>⬕1</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◻</td>
-    <td>◼</td>
-    <td>⬕3</td>
-    <td>⬕3</td>
-    <td>◻<br></td>
-    <td>◻</td>
-    <td>◻</td>
-    <td>⬕3</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>⨀1</td>
+    <td>●</td>
+    <td>●</td>
+    <td>✘</td>
+    <td>●</td>
+    <td>⨀3</td>
+    <td>⨀3</td>
+    <td>✘<br></td>
+    <td>✘</td>
+    <td>✘</td>
+    <td>⨀3</td>
   </tr>
   <tr>
     <td>Apple TV</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>⬕2</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◻</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◻</td>
-    <td>⬕</td>
-    <td>◼</td>
-    <td>◼</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>⨀2</td>
+    <td>●</td>
+    <td>●</td>
+    <td>✘</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>✘</td>
+    <td>⨀</td>
+    <td>●</td>
+    <td>●</td>
   </tr>
   <tr>
     <td>HomePod</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◻</td>
-    <td>◼</td>
-    <td>◼</td>
-    <td>◻</td>
-    <td>◼</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+    <td>✘</td>
+    <td>●</td>
+    <td>●</td>
+    <td>✘</td>
+    <td>●</td>
     <td>?4</td>
-    <td>◼</td>
-    <td>◻</td>
-    <td>◻</td>
+    <td>●</td>
+    <td>✘</td>
+    <td>✘</td>
     <td>?4</td>
-    <td>◼</td>
+    <td>●</td>
   </tr>
 </tbody>
 </table>
