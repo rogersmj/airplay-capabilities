@@ -8,95 +8,136 @@ See below for definitions and notes.
 
 ● = Fully supported  |  ⨀ = Partially/conditionally supported (see notes)  |  ✘ = Not supported
 
+
 <table>
 <thead>
   <tr>
-    <th></th>
-    <th colspan="4">Playback control from source device<br></th>
-    <th colspan="4">Volume control from source device</th>
-    <th colspan="4">Playback control/metadata on secondary device<br></th>
-    <th colspan="4">Volume control on secondary device</th>
+    <th>Source device →</th>
+    <th>iOS<br>(iPhone, iPad)</th>
+    <th>Apple TV</th>
+    <th>HomePod</th>
   </tr>
 </thead>
 <tbody>
+  <tr><td colspan="4"></td></tr>
   <tr>
-    <td>Playback device →<br>↓ Source device</td>
-    <td>Airport Express</td>
-    <td>Apple TV</td>
-    <td>HomePod</td>
-    <td>Third Party</td>
-    <td>Airport Express</td>
-    <td>Apple TV</td>
-    <td>HomePod</td>
-    <td>Third Party</td>
-    <td>Airport Express</td>
-    <td>Apple TV</td>
-    <td>HomePod</td>
-    <td>Third Party</td>
-    <td>Airport Express</td>
-    <td>Apple TV</td>
-    <td>HomePod</td>
-    <td>Third Party</td>
+    <th>↓ Playback device</th>
+    <th colspan="3">Playback control from source device</th>
   </tr>
   <tr>
-    <td>iOS (iPhone, iPad)</td>
+    <td>Airport<br>Express</td>
     <td>●</td>
     <td>●</td>
     <td>●</td>
+  </tr>
+  <tr>
+    <td>Apple TV</td>
     <td>●</td>
     <td>●</td>
+    <td>●</td>
+  </tr>
+  <tr>
+    <td>HomePod</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+  </tr>
+  <tr>
+    <td>Third Party</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+  </tr>
+  <tr><td colspan="4"></td></tr>
+  <tr>
+    <th></th>
+    <th colspan="3">Volume control from source device</th>
+  </tr>
+  <tr>
+    <td>Airport<br>Express</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+  </tr>
+  <tr>
+    <td>Apple TV</td>
     <td>⨀1</td>
+    <td>⨀2</td>
+    <td>✘</td>
+  </tr>
+  <tr>
+    <td>HomePod</td>
     <td>●</td>
     <td>●</td>
-    <td>✘</td>
     <td>●</td>
-    <td>⨀3</td>
-    <td>⨀3</td>
-    <td>✘<br></td>
+  </tr>
+  <tr>
+    <td>Third Party</td>
+    <td>●</td>
+    <td>●</td>
+    <td>●</td>
+  </tr>
+  <tr><td colspan="4"></td></tr>
+  <tr>
+    <th></th>
+    <th colspan="3">Playback control/metadata from <br>secondary device</th>
+  </tr>
+  <tr>
+    <td>Airport<br>Express</td>
     <td>✘</td>
     <td>✘</td>
-    <td>⨀3</td>
+    <td>✘</td>
   </tr>
   <tr>
     <td>Apple TV</td>
     <td>●</td>
     <td>●</td>
     <td>●</td>
+  </tr>
+  <tr>
+    <td>HomePod</td>
+    <td>⨀3</td>
+    <td>●</td>
+    <td>?4</td>
+  </tr>
+  <tr>
+    <td>Third Party</td>
+    <td>⨀3</td>
     <td>●</td>
     <td>●</td>
-    <td>⨀2</td>
-    <td>●</td>
-    <td>●</td>
+  </tr>
+  <tr><td colspan="4"></td></tr>
+  <tr>
+    <th></th>
+    <th colspan="3">Volume control from <br>secondary device</th>
+  </tr>
+  <tr>
+    <td>Airport<br>Express</td>
     <td>✘</td>
-    <td>●</td>
-    <td>●</td>
-    <td>●</td>
+    <td>✘</td>
+    <td>✘</td>
+  </tr>
+  <tr>
+    <td>Apple TV</td>
     <td>✘</td>
     <td>⨀</td>
-    <td>●</td>
-    <td>●</td>
+    <td>✘</td>
   </tr>
   <tr>
     <td>HomePod</td>
-    <td>●</td>
-    <td>●</td>
-    <td>●</td>
-    <td>●</td>
-    <td>●</td>
-    <td>✘</td>
-    <td>●</td>
-    <td>●</td>
     <td>✘</td>
     <td>●</td>
     <td>?4</td>
+  </tr>
+  <tr>
+    <td>Third Party</td>
+    <td>⨀3</td>
     <td>●</td>
-    <td>✘</td>
-    <td>✘</td>
-    <td>?4</td>
     <td>●</td>
   </tr>
 </tbody>
 </table>
+
 
 ### Notes
 1. Can only change volume if the Apple TV is able to send volume commands through CEC to connected TV/sound system.
